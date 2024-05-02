@@ -1,0 +1,26 @@
+# Python libraries
+zipp==3.7.0
+pdfkit==1.0.0
+Pillow==10.1.0
+psycopg==3.1.16 
+requests==2.31.0
+pytz==2023.3.post1
+python-dotenv==1.0.0
+python-json-logger==2.0.7
+Unidecode==1.3.4
+redis==5.0.1
+pandas==2.1.4
+gunicorn==21.2.0
+
+# Django libraries
+Django==5.0.2
+django-sslserver==0.22
+django-crispy-forms==2.1
+crispy-bootstrap5==2023.10
+django-filter==23.4
+django-safedelete==1.3.3
+django-q2==1.6.1
+django-simple-history @ git+https://github.com/ludensproductions/django-simple-history@1c96c323b2d68d86bd1aa10d56b66091bb79fc65
+
+# Django REST framework
+djangorestframework==3.14.0
